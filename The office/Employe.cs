@@ -1,4 +1,4 @@
-﻿public class Employe : Personne
+﻿public class Employe : Personne, IEmploye
 {
     public double Salaire { get; set; }
 

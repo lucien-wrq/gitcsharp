@@ -21,4 +21,4 @@ Console.WriteLine($"{societe.GetChef()}");
 Console.WriteLine($"{societe.CalculSommeSalaire()}");
 Console.WriteLine($"{societe.Travail()}");
 
-Console.WriteLine(societe.Stalker());
+// Console.WriteLine(societe.Stalker());
